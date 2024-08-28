@@ -1,7 +1,4 @@
 # PHONIX
-
-![PHONIX Banner](https://your-image-link.com/banner.png) *(Optional: Replace with your banner image link)*
-
 ## 📱 Overview
 
 **PHONIX** is a simple Python-based tool that allows you to retrieve detailed information about phone numbers, including the country and carrier associated with a given number. Utilizing the powerful `phonenumbers` library, PHONIX ensures accurate parsing and data retrieval, making it a handy tool for developers and enthusiasts working with phone number data.
