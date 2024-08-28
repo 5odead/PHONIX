@@ -26,3 +26,16 @@
    ```bash
    git clone https://github.com/yourusername/PHONIX.git
    cd PHONIX
+
+2. **Install Dependencies**
+ 
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+1. Run the Script
+``python PHONIX.py``
+3. Enter the Phone Number
+
+### Documentation
+PHONIX leverages the phonenumbers library for parsing, formatting, and validating phone numbers. For more detailed information on the library's capabilities, refer to the [official documentation](https://pypi.org/project/phonenumbers/)
