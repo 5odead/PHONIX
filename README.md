@@ -31,7 +31,7 @@
 
 ## Usage
 1. Run the Script
-``python PHONIX.py``
+``python3 PHONIX.py``
 3. Enter the Phone Number
 
 ### Documentation
