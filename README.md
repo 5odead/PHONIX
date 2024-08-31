@@ -21,7 +21,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/PHONIX.git
+   https://github.com/5odead/PHONIX.git
    cd PHONIX
 
 2. **Install Dependencies**
