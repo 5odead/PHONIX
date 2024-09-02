@@ -9,6 +9,7 @@
 - **Carrier Information:** Identify the carrier or service provider of the phone number.
 - **User-Friendly Interface:** Simple command-line interface for easy use.
 - **Input Sanitization:** Automatically cleans and formats phone numbers for accurate processing.
+- **Number History Tracking:** Automatically saves all phone numbers entered by the user into a history file for future reference.
 
 ## 📦 Installation
 
