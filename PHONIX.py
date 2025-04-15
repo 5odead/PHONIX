@@ -24,13 +24,13 @@ def save_to_history(number):
 
 number = input("Enter Your Number With Country Code: ")  # User Input For Number
 
-# Sanitize input
+#Sanitize input
 number = (number.replace('-', ''))
 number = (number.replace('(', ''))
 number = (number.replace(')', ''))
 number = (number.replace(' ', ''))
 
-# Ensure the number starts with a '+' for international format
+#Ensure the number starts with a '+' for international format
 if not number.startswith('+'):
     number = '+' + number
 
